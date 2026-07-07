@@ -1,0 +1,34 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Publish folder
+publish/
+
+# NuGet packages
+packages/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+
+# Visual Studio cache
+*.cache
+
+# Generated files
+Generated Files/

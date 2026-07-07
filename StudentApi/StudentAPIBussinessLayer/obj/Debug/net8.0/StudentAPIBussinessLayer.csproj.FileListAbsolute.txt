@@ -1,0 +1,15 @@
+D:\Projects\StudentAPIBussinessLayer\bin\Debug\net8.0\StudentAPIBussinessLayer.deps.json
+D:\Projects\StudentAPIBussinessLayer\bin\Debug\net8.0\StudentAPIBussinessLayer.dll
+D:\Projects\StudentAPIBussinessLayer\bin\Debug\net8.0\StudentAPIBussinessLayer.pdb
+D:\Projects\StudentAPIBussinessLayer\bin\Debug\net8.0\StudentDataAccess.dll
+D:\Projects\StudentAPIBussinessLayer\bin\Debug\net8.0\StudentDataAccess.pdb
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentAPIBussinessLayer.csproj.AssemblyReference.cache
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentAPIBussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentAPIBussinessLayer.AssemblyInfoInputs.cache
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentAPIBussinessLayer.AssemblyInfo.cs
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentAPIBussinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentA.4B7F5DE1.Up2Date
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentAPIBussinessLayer.dll
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\refint\StudentAPIBussinessLayer.dll
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\StudentAPIBussinessLayer.pdb
+D:\Projects\StudentAPIBussinessLayer\obj\Debug\net8.0\ref\StudentAPIBussinessLayer.dll

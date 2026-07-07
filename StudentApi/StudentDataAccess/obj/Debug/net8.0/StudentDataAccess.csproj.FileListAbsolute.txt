@@ -1,0 +1,12 @@
+D:\Projects\StudentDataAccess\bin\Debug\net8.0\StudentDataAccess.deps.json
+D:\Projects\StudentDataAccess\bin\Debug\net8.0\StudentDataAccess.dll
+D:\Projects\StudentDataAccess\bin\Debug\net8.0\StudentDataAccess.pdb
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\StudentDataAccess.csproj.AssemblyReference.cache
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\StudentDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\StudentDataAccess.AssemblyInfoInputs.cache
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\StudentDataAccess.AssemblyInfo.cs
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\StudentDataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\StudentDataAccess.dll
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\refint\StudentDataAccess.dll
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\StudentDataAccess.pdb
+D:\Projects\StudentDataAccess\obj\Debug\net8.0\ref\StudentDataAccess.dll

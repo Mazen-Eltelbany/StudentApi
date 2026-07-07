@@ -2,7 +2,6 @@
 
 StudentAPI is a RESTful Web API built with **ASP.NET Core** that manages student records — including CRUD operations, filtering passed students, and calculating average grades. The project follows a layered architecture separating the API, business logic, and data access concerns.
 
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![Language](https://img.shields.io/badge/language-C%23-239120)
 ![Framework](https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4)
 ![Database](https://img.shields.io/badge/database-SQL%20Server-CC2927)

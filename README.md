@@ -87,7 +87,7 @@ The API follows a 3-layer architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/StudentAPI.git
+   git clone https://github.com/Mazen-Eltelbany/StudentApi.git
    ```
 2. Restore the `StudentsDB` database in SQL Server Management Studio.
 3. Update the connection string in `appsettings.json` to point to your SQL Server instance.
